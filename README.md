@@ -144,6 +144,8 @@ Answer the following questions based on your understanding of how to pitch a sof
     Example of call to action:
     After reviewing the potential of our new software solution and its alignment with our strategic goals, I encourage you to approve the allocated budget for the next phase of development. This will enable us to meet our launch deadline and capitalize on the upcoming market demand. Please contact our project manager, Jane Doe, by Friday to discuss any questions or concerns. Your timely approval will ensure that we stay ahead of our competitors and deliver exceptional value to our customers.
 
+    refference: Google, Chatgpt, lesson video, lesson material
+
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide real-world examples or case studies wherever possible.
